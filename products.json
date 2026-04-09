@@ -1,0 +1,130 @@
+[
+  {
+    "id": 1,
+    "name": "Кофе",
+    "price": 250,
+    "category": "Напитки",
+    "description": "Свежий кофе",
+    "photo": ""
+  },
+  {
+    "id": 2,
+    "name": "Чай",
+    "price": 150,
+    "category": "Напитки",
+    "description": "Ароматный чай",
+    "photo": ""
+  },
+  {
+    "id": 3,
+    "name": "Кофе XL",
+    "price": 350,
+    "category": "Напитки",
+    "description": "Большой авторский кофе",
+    "photo": "https://site.com/coffee.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Кофе XL",
+    "price": 350,
+    "category": "Напитки",
+    "description": "Большой авторский кофе",
+    "photo": "https://site.com/coffee.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Кофе XL",
+    "price": 350,
+    "category": "Напитки",
+    "description": "Большой авторский кофе",
+    "photo": "https://site.com/coffee.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Кофе XL",
+    "price": 350,
+    "category": "Напитки",
+    "description": "Большой авторский кофе",
+    "photo": "https://site.com/coffee.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Кофе XL",
+    "price": 350,
+    "category": "Напитки",
+    "description": "Большой авторский кофе",
+    "photo": "https://site.com/coffee.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Кофе XL",
+    "price": 350,
+    "category": "Напитки",
+    "description": "Большой авторский кофе",
+    "photo": "https://site.com/coffee.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Кофе XL",
+    "price": 350,
+    "category": "Напитки",
+    "description": "Большой авторский кофе",
+    "photo": "https://site.com/coffee.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Кофе XL",
+    "price": 350,
+    "category": "Напитки",
+    "description": "Большой авторский кофе",
+    "photo": "https://site.com/coffee.jpg\n\nм"
+  },
+  {
+    "id": 11,
+    "name": "Кофе XL",
+    "price": 350,
+    "category": "Напитки",
+    "description": "Большой авторский кофе",
+    "photo": "https://site.com/coffee.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Кофе XL",
+    "price": 350,
+    "category": "Напитки",
+    "description": "Большой авторский кофе",
+    "photo": "https://site.com/coffee.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Кофе XL",
+    "price": 350,
+    "category": "Напитки",
+    "description": "Большой авторский кофе",
+    "photo": "https://site.com/coffee.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Кофе XL",
+    "price": 350,
+    "category": "Напитки",
+    "description": "Большой авторский кофе",
+    "photo": "https://site.com/coffee.jpg\nм\n/item_add Кофе XL"
+  },
+  {
+    "id": 15,
+    "name": "Кофе XL",
+    "price": 350,
+    "category": "Напитки",
+    "description": "Большой авторский кофе",
+    "photo": "https://site.com/coffee.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Кофе XL",
+    "price": 350,
+    "category": "Напитки",
+    "description": "Большой авторский кофе",
+    "photo": "https://site.com/coffee.jpg"
+  }
+]
