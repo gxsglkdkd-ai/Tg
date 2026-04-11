@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "status": "pending_payment",
+    "user_id": 1477399475,
+    "username": "FixPic",
+    "full_name": "Максим Соколов🩻",
+    "items": [
+      {
+        "id": 1,
+        "name": "Бургер классический",
+        "price": 390
+      }
+    ],
+    "total": 390,
+    "created_at": "2026-04-10T13:13:20.707167"
+  },
+  {
+    "id": 2,
+    "status": "pending_payment",
+    "user_id": 1477399475,
+    "username": "FixPic",
+    "full_name": "Максим Соколов🩻",
+    "items": [
+      {
+        "id": 2,
+        "name": "Капучино",
+        "price": 220
+      }
+    ],
+    "total": 220,
+    "created_at": "2026-04-10T13:16:40.580842"
+  },
+  {
+    "id": 3,
+    "status": "pending_payment",
+    "user_id": 7964205187,
+    "username": "Mendlig",
+    "full_name": "Jennifer Patel",
+    "items": [
+      {
+        "id": 14,
+        "name": "101",
+        "price": 1000000
+      }
+    ],
+    "total": 1000000,
+    "created_at": "2026-04-10T20:59:35.022309"
+  }
+]

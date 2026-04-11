@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+.idea/
+
+# Runtime data
+admins.json
+tickets.json
+paid_orders.json
+
+# Local overrides
+.env

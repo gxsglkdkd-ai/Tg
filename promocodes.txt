@@ -1,0 +1,7 @@
+# Формат:
+# CODE|type|value|description
+# type: percent | fixed | free
+
+101|percent|10|Скидка 10%
+MINUS200|fixed|200|Скидка 200 ₽
+FREE100|free|0|Бесплатный заказ
